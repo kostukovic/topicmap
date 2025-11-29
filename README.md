@@ -1,4 +1,4 @@
-# topicmap
+# TopicMap
 
 
 Ich nehme als Beispiel ein „Python-Programmiersprachen-Buch“.
